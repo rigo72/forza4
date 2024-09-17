@@ -1,0 +1,19 @@
+.tabella{
+    width: 100%;
+    height: 100%;
+    background-color: lime;
+}
+
+tr{
+    border:  1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+.bottone{
+    padding: 60px 65px;
+    background-color: aqua;
+}
